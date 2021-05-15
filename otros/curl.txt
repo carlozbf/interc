@@ -1,0 +1,5 @@
+curl -i -X POST -H "Content-Type: text/xml" -H "SOAPAction: \"http://www.webservicex.net/GetGeoIP\"" --data-binary @request.xml "http://www.webservicex.net/geoipservice.asmx"
+
+
+https://blog.immontilla.eu/consuming-soap-web-services-with-curl/
+
