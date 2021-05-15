@@ -3,3 +3,6 @@ curl -i -X POST -H "Content-Type: text/xml" -H "SOAPAction: \"http://www.webserv
 
 https://blog.immontilla.eu/consuming-soap-web-services-with-curl/
 
+https://curlbuilder.com/
+
+https://geekflare.com/es/curl-command-usage-with-example/
